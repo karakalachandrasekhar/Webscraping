@@ -4,7 +4,7 @@
 #
 #
 # REF: https://www.imdb.com/
-# REF: https://www.dataquest.io/blog/web-scraping-beautifulsoup/
+# 
 #
 ###############################################################################
 
