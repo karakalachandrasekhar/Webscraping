@@ -18,4 +18,5 @@ ShortNotes
 Extension: we can programmaticaly decide the number of pages we need and then scrape the website
 
 Note: This is basic program for learning how to scrape a website
+
 Ref: Thanks Alex(https://www.dataquest.io/blog/author/alex-olteanu/) for your wonderful post on webscraping
